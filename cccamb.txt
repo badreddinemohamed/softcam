@@ -26,3 +26,14 @@ C: cccam30day.ddns.net 17000 12389260 cccam30day
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
 C: cccamdz.mydns.tk 16061 w3xmes cccamdz.com
 C: 167.86.115.155 23000 storesat 727yjoi1
+C: jeje.resident.ovh 33333 fjmallen fjmallenpass
+C: 3.clinesat.xyz 33000 atsuper1101a7 vpsr2vg1
+C: 6.clinesat.xyz 33000 PTR19081435 tve8o
+C: bestcc.iptf.me 6001 best768 X27J36
+C: newking.mysql.tv 12000 Foxhd812 1Z900x
+C: 1.tvsnake.com 22700 kdzVTL HwhK9z
+C: newking.mysql.tv 12001 Foxhd834 8b47iA
+C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX
+C: 3.clinesat.xyz 33000 owd01922 tvdnq
+C: upc2.boxnl.org 10006 bachiz101 bachiz101ix
+C: cam.cccam.work 9500 mayk25CSAT mayk25YNDX
