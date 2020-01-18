@@ -3,12 +3,9 @@ C: nassarzd2.ddns.net 15000 nova120 kyngsat
 C: 178.238.224.107 14000 koora koora
 C: 178.238.224.107 18000 haha bbaa
 C: cam.cccam.work 9500 mayk25CSAT mayk25YNDX
-C: 134.19.176.56 31001 bmw967 Zp1s44
-C: 4.clinesat.xyz 40000 extvlink6031 183489
 C: 178.238.224.107 14000 haha haha # v2.0.11-2892
 C: 178.238.224.107 14000 aabb bbaa # v2.0.11-2892
 C: jeje.resident.ovh 33333 fjmallen fjmallenpass
-C: 134.19.176.56 31001 bmw981 Zp1s4I
 C: 1.tvsnake.com 22600 ywLxqf mB4Xqp
 C: 178.238.224.107 18000 aabb bbaa
 C: mrsharing.net 41 mrshc370 565rr56ui
@@ -18,7 +15,6 @@ C: 178.238.224.107 14000 haha bbaa
 C: newking.mysql.tv 12001 newvip32 x043e3
 C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX
 C: 1.tvsnake.com 22700 kdzVTL HwhK9z
-C: 79.143.178.10 19000 abboe10800 rtrtg
 C: 46.20.36.27 44 mrsharing.com22491 oiuyt67103
 C: server55.justcccam.info 22308 I955 Jazair03221
 C: server55.justcccam.info 22308 I777 Jazair99816
@@ -26,12 +22,7 @@ C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
 C: server33.justcccam.info 23232 D265 L9dBVKeQcsO
 C: bestcc.iptf.me 6001 best768 X27J36
 C: iconepro.me 1993 free3day2 iconepro.me
-C: firecccam.com 17000 nadir badro
 C: cccam30day.ddns.net 17000 12389260 cccam30day
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
-C: soft4sat12.tk 11549 61tsjx soft4sat.com
-C: soft4sat12.tk 11549 ewqxei soft4sat.com
-C: soft4sat12.tk 11549 6zzhgq soft4sat.com
-C: soft4sat12.tk 11549 lxq8wr soft4sat.com
 C: cccamdz.mydns.tk 16061 w3xmes cccamdz.com
 C: 167.86.115.155 23000 storesat 727yjoi1
