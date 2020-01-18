@@ -1,6 +1,5 @@
-C: iconepro.me 22200 xz3kquaw iconepro
 C: camd5days.ddns.net 14000 nadir badro
-C: nassarzd2.ddns.net 15000 nova86 kyngsat
+C: nassarzd2.ddns.net 15000 nova120 kyngsat
 C: 178.238.224.107 14000 koora koora
 C: 178.238.224.107 18000 haha bbaa
 C: cam.cccam.work 9500 mayk25CSAT mayk25YNDX
