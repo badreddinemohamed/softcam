@@ -37,3 +37,6 @@ C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX
 C: 3.clinesat.xyz 33000 owd01922 tvdnq
 C: upc2.boxnl.org 10006 bachiz101 bachiz101ix
 C: cam.cccam.work 9500 mayk25CSAT mayk25YNDX
+C: cccamdz.mydns.tk 16061 hssu cccamdz.com
+C: cccamdz.mydns.tk 16061 2c6y cccamdz.com
+C: cccamdz.mydns.tk 16061 vanu cccamdz.com
