@@ -18,8 +18,6 @@ C: newking.mysql.tv 12001 newvip32 x043e3
 C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX
 C: 1.tvsnake.com 22700 kdzVTL HwhK9z
 C: 46.20.36.27 44 mrsharing.com22491 oiuyt67103
-C: server55.justcccam.info 22308 I955 Jazair03221
-C: server55.justcccam.info 22308 I777 Jazair99816
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
 C: server33.justcccam.info 23232 D265 L9dBVKeQcsO
 C: bestcc.iptf.me 6001 best768 X27J36
@@ -45,3 +43,5 @@ C: cccamdz.mydns.tk 16061 vanu cccamdz.com
 C: kyng.ddns.net 15000 105.108.202.248 kyng
 C: 51.38.48.10 6300 Tues1day dream4ever.info
 C: 51.38.48.10 6301 Premier dream4ever.info
+C: soft4sat8.tk 1885 c0nqfy soft4sat
+C: soft4sat8.tk 1885 cse42s soft4sat
