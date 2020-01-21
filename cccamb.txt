@@ -1,4 +1,4 @@
-C: bissteam.ml 12095 9kaib6 bissteam
+C: bissteam.ml 12095 f05izu bissteam
 C: premierserver1.pw 1000 royalcccam1002 12225566
 C: camd5days.ddns.net 14000 nadir badro
 C: nassarzd2.ddns.net 15000 nova120 kyngsat
@@ -42,3 +42,6 @@ C: cam.cccam.work 9500 mayk25CSAT mayk25YNDX
 C: cccamdz.mydns.tk 16061 hssu cccamdz.com
 C: cccamdz.mydns.tk 16061 2c6y cccamdz.com
 C: cccamdz.mydns.tk 16061 vanu cccamdz.com
+C: kyng.ddns.net 15000 105.108.202.248 kyng
+C: 51.38.48.10 6300 Tues1day dream4ever.info
+C: 51.38.48.10 6301 Premier dream4ever.info
