@@ -138,3 +138,5 @@ C: powerman1.cf 53900 vmbd7tz1wgpowerman powerman # v2.1.1-2971
 C: 1.clinesat.xyz 11000 test115b test1fe7 # v2.0.11-2892
 C: serversat.net 24000 badro serversat.net
 C: cccam.iptvsat4k.net 17010 CHJGDgjhgdgd https://flylinks.net
+C: cccam4all.hack-sat.org 19800 QASSQddddfhc bestiptvm3u.com
+C: generator.hack-sat.com 19800 QASSQddddfhc bestiptvm3u.com
