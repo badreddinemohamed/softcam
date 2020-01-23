@@ -136,3 +136,4 @@ C: cam.cccam.work 9500 mayk25CSAT mayk25YNDX # v2.0.11-2892
 C: 186.2.174.92 10100 persic58 16092017persic # v2.2.1-3316
 C: powerman1.cf 53900 vmbd7tz1wgpowerman powerman # v2.1.1-2971
 C: 1.clinesat.xyz 11000 test115b test1fe7 # v2.0.11-2892
+C: serversat.net 24000 badro serversat.net
