@@ -1,4 +1,4 @@
-C: bissteam.ml 12095 f05izu bissteam
+C: bissteam.ml 12095 0ujih0 bissteam
 C: camd5days.ddns.net 14000 nadir badro
 C: nassarzd2.ddns.net 15000 nova120 kyngsat
 C: 178.238.224.107 14000 koora koora
