@@ -1,15 +1,9 @@
 C: bissteam.ml 12095 f05izu bissteam
-C: premierserver1.pw 1000 royalcccam1002 12225566
 C: camd5days.ddns.net 14000 nadir badro
 C: nassarzd2.ddns.net 15000 nova120 kyngsat
 C: 178.238.224.107 14000 koora koora
 C: 178.238.224.107 18000 haha bbaa
 C: cam.cccam.work 9500 mayk25CSAT mayk25YNDX
-C: 178.238.224.107 14000 haha haha # v2.0.11-2892
-C: 178.238.224.107 14000 aabb bbaa # v2.0.11-2892
-C: jeje.resident.ovh 33333 fjmallen fjmallenpass
-C: 1.tvsnake.com 22600 ywLxqf mB4Xqp
-C: 178.238.224.107 18000 aabb bbaa
 C: mrsharing.net 41 mrshc370 565rr56ui
 C: speedserver.myftp.ws 15000 speedcccam219 R6598X
 C: 178.238.224.107 18000 tvtv tvtv
