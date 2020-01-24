@@ -140,3 +140,5 @@ C: serversat.net 24000 badro serversat.net
 C: cccam.iptvsat4k.net 17010 CHJGDgjhgdgd https://flylinks.net
 C: cccam4all.hack-sat.org 19800 QASSQddddfhc bestiptvm3u.com
 C: generator.hack-sat.com 19800 QASSQddddfhc bestiptvm3u.com
+C: iconepro.me 22200 9r883txk iconepro
+C: algsat.ddns.net 18555 3szb8pil algsat.com
