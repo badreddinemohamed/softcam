@@ -1,3 +1,4 @@
+C: pscccam.xyz 18000 0746W24VPT TZ3KXKEGJ1
 C: bissteam.ml 12095 ykyop0 bissteam
 C: camd5days.ddns.net 14000 nadir badro
 C: nassarzd2.ddns.net 15000 nova120 kyngsat
