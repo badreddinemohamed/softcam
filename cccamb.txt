@@ -15,13 +15,13 @@ C: algsat.ddns.net 18555 51hfz0nq algsat.com
 C: firecccam.com 17000 nadir badro
 C: 4k4u.top 65000 nadirbadro nadir
 C: bissteam.ml 12095 h8m92z bissteam
-C: 2.clinesat.xyz 22000 exsuper4685 168504 # v2.0.11-2892
-C: 6.clinesat.xyz 61000 yicy5689 h7e3g9b # v2.0.11-2892
-C: 3.clinesat.xyz 33000 owd01922 tvdnq # v2.0.11-2892
-C: 6.clinesat.xyz 61000 atsuper1104a60 vpsr2ubc # v2.0.11-2892
-C: server55.justcccam.info 22307 I957 Jazair04942 # v2.0.11-2892
-C: server35.justcccam.info 27232 D118 Algeria8130 # v2.0.11-2892
-C: bandookk.sytes.net 33002 bandookk +923325650401 # v2.1.3-3165
-C: 144.76.223.38 22600 W93M2T V6q7TN # v2.1.4-2892
-C: 186.2.174.94 10100 zolvor1 zolvor1 # v2.2.1-3316
-C: hotte-x.dyndns.org 20549 Claudia-Dreambox CS-server-dbox # v2.3.0-3367
+C: 2.clinesat.xyz 22000 exsuper4685 168504
+C: 6.clinesat.xyz 61000 yicy5689 h7e3g9b
+C: 3.clinesat.xyz 33000 owd01922 tvdnq
+C: 6.clinesat.xyz 61000 atsuper1104a60 vpsr2ubc
+C: server55.justcccam.info 22307 I957 Jazair04942
+C: server35.justcccam.info 27232 D118 Algeria8130
+C: bandookk.sytes.net 33002 bandookk +923325650401
+C: 144.76.223.38 22600 W93M2T V6q7TN
+C: 186.2.174.94 10100 zolvor1 zolvor1
+C: hotte-x.dyndns.org 20549 Claudia-Dreambox CS-server-dbox
