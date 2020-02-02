@@ -1,6 +1,6 @@
-C: bissteam.ml 12095 lmb490 bissteam
+C: bissteam.ml 12095 kebbh5 bissteam
 C: camd5days.ddns.net 18888 41552 kyng
-C: nassarzd2.ddns.net 15000 madrid122 kyngsat
+C: nassarzd2.ddns.net 15000 madrid98 kyngsat
 C: cccam30day.ddns.net 17000 12389260 cccam30day
 C: kyng.ddns.net 15000 197.207.12.231 kyng
 C: 51.38.48.10 6300 Wednes4day dream4ever.info
@@ -44,4 +44,14 @@ C: free.cccamxfree.com 36061 drtor cccamxfree
 C: 51.38.48.10 6300 Sat07 dream4evertwo.info
 C: 51.38.48.10 6301 Derby dream4evertwo.info
 C: 51.38.48.10 6302 Febr4uary dream4evertwo.info
+C: 178.238.224.107 18000 tvtv tvtv
+C: 4evercam.ddns.net 14200 17i4q3 4evercam
+C: supercc.iptf.me 29000 fast63 Uk2O0t
+C: 178.238.224.107 18000 aabb bbaa
+C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
+N: 1.3gyptsat.net 23000 FTauHj4 3gyptsat.net 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+N: 1.3gyptsat.net 23000 FTauHj9 3gyptsat.net 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+N: 1.3gyptsat.net 23000 FTauHj14 3gyptsat.net 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+C: doctorscccam.tk 12000 vsfsslij hisam
+C: 167.86.115.155 23000 storesat shhduh5u
 
