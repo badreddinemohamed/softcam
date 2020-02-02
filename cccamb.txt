@@ -31,3 +31,4 @@ C: hostserv.mywire.org 12012 TH5bb3 CcCAMGATE.neT
 C: hostserv.mywire.org 12012 U841jn CcCAMGATE.neT
 C: restream2.spdns.org 12555 og4780 cccamlive
 C: cccam.iptvsat4k.net 17010 dfGGG65653DDD https://flylinks.net
+C: b1.hack-sat.org 14095 105.108.77.118 bestiptvm3u.com
