@@ -1,4 +1,3 @@
-C: pscccam.xyz 18000 0746W24VPT TZ3KXKEGJ1
 C: bissteam.ml 12095 lmb490 bissteam
 C: camd5days.ddns.net 18888 41552 kyng
 C: nassarzd2.ddns.net 15000 nova120 kyngsat
@@ -7,8 +6,6 @@ C: kyng.ddns.net 15000 105.108.202.248 kyng
 C: 51.38.48.10 6300 Wednes4day dream4ever.info
 C: 51.38.48.10 6301 Copasp dream4ever.info
 C: 51.38.48.10 6302 Li6ga dream4ever.info
-C: cccam4all.hack-sat.org 19800 DIUHFKJHFdd bestiptvm3u.com
-C: generator.hack-sat.com 19800 DIUHFKJHFdd bestiptvm3u.com
 C: iconepro.me 22200 k0t4avfp iconepro
 C: iconepro.me 22200 k72xp04u iconepro
 C: algsat.ddns.net 18555 0nhhb5ar algsat.com
