@@ -1,57 +1,33 @@
-C: bissteam.ml 12095 kebbh5 bissteam
+C: bissteam.ml 12095 t49y99 bissteam
 C: camd5days.ddns.net 18888 41552 kyng
 C: nassarzd2.ddns.net 15000 madrid98 kyngsat
 C: cccam30day.ddns.net 17000 12389260 cccam30day
 C: kyng.ddns.net 15000 197.207.12.231 kyng
-C: 51.38.48.10 6300 Wednes4day dream4ever.info
-C: 51.38.48.10 6301 Copasp dream4ever.info
-C: 51.38.48.10 6302 Li6ga dream4ever.info
-C: iconepro.me 22200 k0t4avfp iconepro
 C: iconepro.me 22200 k72xp04u iconepro
-C: algsat.ddns.net 18555 0nhhb5ar algsat.com
-C: firecccam.com 17000 nadirbadro badro
-C: 4k4u.top 65000 nadirbadro nadir
-C: bissteam.ml 12095 h8m92z bissteam
-C: 2.clinesat.xyz 22000 exsuper4685 168504
 C: 6.clinesat.xyz 61000 yicy5689 h7e3g9b
-C: 3.clinesat.xyz 33000 owd01922 tvdnq
-C: 6.clinesat.xyz 61000 atsuper1104a60 vpsr2ubc
-C: server55.justcccam.info 22307 I957 Jazair04942
-C: server35.justcccam.info 27232 D118 Algeria8130
-C: bandookk.sytes.net 33002 bandookk +923325650401
 C: 144.76.223.38 22600 W93M2T V6q7TN
-C: 186.2.174.94 10100 zolvor1 zolvor1
-C: hotte-x.dyndns.org 20549 Claudia-Dreambox CS-server-dbox
-C: s10-cas1.dyndns.tv 7777 kosimov 7430877
 C: jeje.resident.ovh 33333 fjmallen fjmallenpass
+C: s10-cas1.dyndns.tv 7777 kosimov 7430877
 C: 2.clinesat.xyz 22000 atsu1211b39 vpsr155k
-C: bandookk.sytes.net 33002 bandookk +923325650401
-C: 134.19.176.56 31001 bmw989 Zp1s4!
-C: bestcc.iptf.me 6001 best768 X27J36
+C: 186.2.174.94 10100 zolvor1 zolvor1
+C: bestcc.iptf.me 6001 best768 X27J3
+C: hotte-x.dyndns.org 20549 Claudia-Dreambox CS-server-dbox
 C: mrsharing.net 41 mrshc370 565rr56ui
-C: newking.mysql.tv 12000 Foxhd812 1Z988x
 C: premierserver1.pw 1000 royalcccam1002 12225566
-C: speedserver.myftp.ws 11000 speedcccam256 R6598p
+C: bandookk.sytes.net 33002 bandookk +923325650401
 C: 79.143.178.10 19000 abboe10800 rtrtg
-C: 193.34.144.135 53053 bokipan GeoForum
-C: soft4sat8.tk 1885 t39eqa soft4sat
-C: soft4sat8.tk 1885 9o1lwr soft4sat
-C: soft4sat8.tk 1885 mo7kyk soft4sat
-C: soft4sat8.tk 1885 8btv73 soft4sat
-C: 193.34.144.135 53053 bokipan geoforum
-C: f1.kcccam.com 16000 1673507 kcccam.com
-C: free.cccamxfree.com 36061 drtor cccamxfree
 C: 51.38.48.10 6300 Sat07 dream4evertwo.info
 C: 51.38.48.10 6301 Derby dream4evertwo.info
 C: 51.38.48.10 6302 Febr4uary dream4evertwo.info
 C: 178.238.224.107 18000 tvtv tvtv
-C: 4evercam.ddns.net 14200 17i4q3 4evercam
-C: supercc.iptf.me 29000 fast63 Uk2O0t
-C: 178.238.224.107 18000 aabb bbaa
-C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
-N: 1.3gyptsat.net 23000 FTauHj4 3gyptsat.net 01 02 03 04 05 06 07 08 09 10 11 12 13 14
-N: 1.3gyptsat.net 23000 FTauHj9 3gyptsat.net 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+C: 193.34.144.135 53053 bokipan GeoForum
 N: 1.3gyptsat.net 23000 FTauHj14 3gyptsat.net 01 02 03 04 05 06 07 08 09 10 11 12 13 14
-C: doctorscccam.tk 12000 vsfsslij hisam
+C: doctorscccam.tk 12000 abyuvhgs hisam
 C: 167.86.115.155 23000 storesat shhduh5u
-
+C: paladium.eu 20020 gologogo111 WzqwJcKz
+C: hostserv.mywire.org 12012 Lp8Kt4 CcCAMGATE.neT # v2.1.3-3165
+C: hostserv.mywire.org 12012 GlK716 CcCAMGATE.neT # v2.1.3-3165
+C: hostserv.mywire.org 12012 TH5bb3 CcCAMGATE.neT # v2.1.3-3165
+C: hostserv.mywire.org 12012 U841jn CcCAMGATE.neT # v2.1.3-3165
+C: restream2.spdns.org 12555 og4780 cccamlive # v2.0.11-2892
+C: cccam.iptvsat4k.net 17010 dfGGG65653DDD https://flylinks.net
