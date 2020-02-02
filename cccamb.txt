@@ -38,3 +38,6 @@ C: soft4sat8.tk 1885 t39eqa soft4sat
 C: soft4sat8.tk 1885 9o1lwr soft4sat
 C: soft4sat8.tk 1885 mo7kyk soft4sat
 C: soft4sat8.tk 1885 8btv73 soft4sat
+C: 193.34.144.135 53053 bokipan geoforum
+C: f1.kcccam.com 16000 1673507 kcccam.com
+C: free.cccamxfree.com 36061 drtor cccamxfree
