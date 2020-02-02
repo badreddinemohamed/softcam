@@ -25,9 +25,9 @@ N: 1.3gyptsat.net 23000 FTauHj14 3gyptsat.net 01 02 03 04 05 06 07 08 09 10 11 1
 C: doctorscccam.tk 12000 abyuvhgs hisam
 C: 167.86.115.155 23000 storesat shhduh5u
 C: paladium.eu 20020 gologogo111 WzqwJcKz
-C: hostserv.mywire.org 12012 Lp8Kt4 CcCAMGATE.neT # v2.1.3-3165
-C: hostserv.mywire.org 12012 GlK716 CcCAMGATE.neT # v2.1.3-3165
-C: hostserv.mywire.org 12012 TH5bb3 CcCAMGATE.neT # v2.1.3-3165
-C: hostserv.mywire.org 12012 U841jn CcCAMGATE.neT # v2.1.3-3165
-C: restream2.spdns.org 12555 og4780 cccamlive # v2.0.11-2892
+C: hostserv.mywire.org 12012 Lp8Kt4 CcCAMGATE.neT
+C: hostserv.mywire.org 12012 GlK716 CcCAMGATE.neT
+C: hostserv.mywire.org 12012 TH5bb3 CcCAMGATE.neT
+C: hostserv.mywire.org 12012 U841jn CcCAMGATE.neT
+C: restream2.spdns.org 12555 og4780 cccamlive
 C: cccam.iptvsat4k.net 17010 dfGGG65653DDD https://flylinks.net
