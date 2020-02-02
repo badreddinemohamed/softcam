@@ -1,8 +1,8 @@
 C: bissteam.ml 12095 lmb490 bissteam
 C: camd5days.ddns.net 18888 41552 kyng
-C: nassarzd2.ddns.net 15000 nova120 kyngsat
+C: nassarzd2.ddns.net 15000 madrid122 kyngsat
 C: cccam30day.ddns.net 17000 12389260 cccam30day
-C: kyng.ddns.net 15000 105.108.202.248 kyng
+C: kyng.ddns.net 15000 197.207.12.231 kyng
 C: 51.38.48.10 6300 Wednes4day dream4ever.info
 C: 51.38.48.10 6301 Copasp dream4ever.info
 C: 51.38.48.10 6302 Li6ga dream4ever.info
@@ -41,3 +41,7 @@ C: soft4sat8.tk 1885 8btv73 soft4sat
 C: 193.34.144.135 53053 bokipan geoforum
 C: f1.kcccam.com 16000 1673507 kcccam.com
 C: free.cccamxfree.com 36061 drtor cccamxfree
+C: 51.38.48.10 6300 Sat07 dream4evertwo.info
+C: 51.38.48.10 6301 Derby dream4evertwo.info
+C: 51.38.48.10 6302 Febr4uary dream4evertwo.info
+
