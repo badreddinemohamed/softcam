@@ -4,31 +4,6 @@ C: nassarzd2.ddns.net 15000 madrid98 kyngsat
 C: cccam30day.ddns.net 17000 12389260 cccam30day
 C: kyng.ddns.net 15000 197.207.12.231 kyng
 C: iconepro.me 22200 cio84mk6 iconepro
-C: 6.clinesat.xyz 61000 yicy5689 h7e3g9b
-C: 144.76.223.38 22600 W93M2T V6q7TN
-C: jeje.resident.ovh 33333 fjmallen fjmallenpass
-C: s10-cas1.dyndns.tv 7777 kosimov 7430877
-C: 2.clinesat.xyz 22000 atsu1211b39 vpsr155k
-C: 186.2.174.94 10100 zolvor1 zolvor1
-C: bestcc.iptf.me 6001 best768 X27J3
-C: hotte-x.dyndns.org 20549 Claudia-Dreambox CS-server-dbox
-C: mrsharing.net 41 mrshc370 565rr56ui
-C: premierserver1.pw 1000 royalcccam1002 12225566
-C: bandookk.sytes.net 33002 bandookk +923325650401
-C: 79.143.178.10 19000 abboe10800 rtrtg
-C: 51.38.48.10 6300 Sat07 dream4evertwo.info
-C: 51.38.48.10 6301 Derby dream4evertwo.info
-C: 51.38.48.10 6302 Febr4uary dream4evertwo.info
-C: 178.238.224.107 18000 tvtv tvtv
 C: 193.34.144.135 53053 bokipan GeoForum
-N: 1.3gyptsat.net 23000 FTauHj14 3gyptsat.net 01 02 03 04 05 06 07 08 09 10 11 12 13 14
 C: doctorscccam.tk 12000 abyuvhgs hisam
-C: 167.86.115.155 23000 storesat shhduh5u
-C: paladium.eu 20020 gologogo111 WzqwJcKz
-C: hostserv.mywire.org 12012 Lp8Kt4 CcCAMGATE.neT
-C: hostserv.mywire.org 12012 GlK716 CcCAMGATE.neT
-C: hostserv.mywire.org 12012 TH5bb3 CcCAMGATE.neT
-C: hostserv.mywire.org 12012 U841jn CcCAMGATE.neT
-C: restream2.spdns.org 12555 og4780 cccamlive
-C: cccam.iptvsat4k.net 17010 dfGGG65653DDD https://flylinks.net
-C: b1.hack-sat.org 14095 105.108.77.118 bestiptvm3u.com
+
