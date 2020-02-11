@@ -1,3 +1,4 @@
+C: serversat.net 24000 badro serversat.net
 C: bissteam.ml 12095 o91u2m bissteam
 C: camd5days.ddns.net 14000 BADRO NADIR
 C: nassarzd2.ddns.net 15000 new200 group
