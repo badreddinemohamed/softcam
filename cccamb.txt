@@ -4,6 +4,8 @@ C: firecccam.com 17000 nadir badro
 C: camd5days.ddns.net 14000 BADRO NADIR
 C: nassarzd2.ddns.net 15000 new200 group
 C: nassarzd2.ddns.net 15000 tnt186 nassar
+C: nassarsat.ddns.net 14500 1802-12 nassarsat
+C: nassarsat.ddns.net 14500 1802-88 nassarsat
 C: cccam30day.ddns.net 17000 12389260 cccam30day
 C: kyng.ddns.net 15000 105.108.64.169 kyng
 C: iconepro.me 22200 r46f9dp1 iconepro
