@@ -44,13 +44,13 @@ C: 141.101.133.11 18000 harisot harisot
 C: 148.251.78.179 120 2388676621 65243
 C: 185.209.30.176 350 630987 77y372
 C: 185.209.30.176 450 630987 77y372
-C: himosatt.ddns.net 1860 g8qj9 himosat.com
-C: himosatt.ddns.net 1860 02hn5 himosat.com
+C: himosatt.ddns.net 1860 aibkd himosat.com
+C: himosatt.ddns.net 1860 daoip himosat.com
 C: himosatt.ddns.net 1860 mn1xu himosat.com
-C: himosatt.ddns.net 1860 lfswq himosat.com
+C: himosatt.ddns.net 1860 h49oy himosat.com
 C: himosatt.ddns.net 1860 b16y3 himosat.com
 C: himosatt.ddns.net 1860 emeyu himosat.com
 C: himosatt.ddns.net 1860 v32yn himosat.com
 C: himosatt.ddns.net 1860 b9lsc himosat.com
 C: himosatt.ddns.net 1860 9ixwg himosat.com
-C: himosatt.ddns.net 1860 5av4q himosat.com
+C: himosatt.ddns.net 1860 i4pha himosat.com
