@@ -46,3 +46,13 @@ C: 185.209.30.176 350 630987 77y372
 C: 185.209.30.176 450 630987 77y372
 C: 141.101.133.8 18000 19rrrrrr 19rrrrrr
 C: 141.101.133.22 8201 bbbaaaaa bbbaaaaa
+C: himosatt.ddns.net 1860 dycpg himosat.com
+C: himosatt.ddns.net 1860 k06hm himosat.com
+C: himosatt.ddns.net 1860 kfm42 himosat.com
+C: himosatt.ddns.net 1860 6dhq8 himosat.com
+
+
+
+
+
+
