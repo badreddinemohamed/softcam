@@ -54,3 +54,5 @@ C: himosatt.ddns.net 1860 v32yn himosat.com
 C: himosatt.ddns.net 1860 b9lsc himosat.com
 C: himosatt.ddns.net 1860 9ixwg himosat.com
 C: himosatt.ddns.net 1860 i4pha himosat.com
+C: 141.101.133.8 18000 19rrrrrr 19rrrrrr
+C: 141.101.133.22 8201 bbbaaaaa bbbaaaaa
