@@ -2,7 +2,7 @@ C: serversat.net 24000 badro serversat.net
 C: bissteam.ml 12095 z1x9ug bissteam
 C: firecccam.com 17000 nadir badro
 C: camd5days.ddns.net 14000 BADRO NADIR
-C: nassarzd2.ddns.net 18888 412sss kyng
+C: nassarzd2.ddns.net 18888 hhfhf44 kyng
 C: kyng.ddns.net 15000 tnt186 nassar
 C: nassarsat.ddns.net 14500 1802-12 nassarsat
 C: nassarsat.ddns.net 14500 1802-88 nassarsat
@@ -44,15 +44,5 @@ C: 141.101.133.11 18000 harisot harisot
 C: 148.251.78.179 120 2388676621 65243
 C: 185.209.30.176 350 630987 77y372
 C: 185.209.30.176 450 630987 77y372
-C: himosatt.ddns.net 1860 aibkd himosat.com
-C: himosatt.ddns.net 1860 daoip himosat.com
-C: himosatt.ddns.net 1860 mn1xu himosat.com
-C: himosatt.ddns.net 1860 h49oy himosat.com
-C: himosatt.ddns.net 1860 b16y3 himosat.com
-C: himosatt.ddns.net 1860 emeyu himosat.com
-C: himosatt.ddns.net 1860 v32yn himosat.com
-C: himosatt.ddns.net 1860 b9lsc himosat.com
-C: himosatt.ddns.net 1860 9ixwg himosat.com
-C: himosatt.ddns.net 1860 i4pha himosat.com
 C: 141.101.133.8 18000 19rrrrrr 19rrrrrr
 C: 141.101.133.22 8201 bbbaaaaa bbbaaaaa
