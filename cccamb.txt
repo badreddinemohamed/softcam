@@ -50,7 +50,7 @@ C: himosatt.ddns.net 1860 dycpg himosat.com
 C: himosatt.ddns.net 1860 k06hm himosat.com
 C: himosatt.ddns.net 1860 kfm42 himosat.com
 C: himosatt.ddns.net 1860 6dhq8 himosat.com
-
+C: perfectcccam.spdns.eu 24000 2lcicw 2hd7gw
 
 
 
