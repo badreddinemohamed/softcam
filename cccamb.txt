@@ -13,3 +13,5 @@ C: tlk29c.cserver.tv 1003 ddd ddd
 C: free.iptvpremiums.com 25000 rnkj iptvpremiums.com
 C: free.tvlivepro.com 40100 fktqn tvlivepro
 C: free.cccamprima.com 25008 d68moh cccamprima.com
+C: s4.cccamprime.com 13008 90269436 cccamprime
+C: free.cccamx.com 39500 Pa2t5TE7 cccamx.com
