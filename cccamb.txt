@@ -1,9 +1,15 @@
 C: OranHighTech.ddns.net 55666 77593121 oranhightech.com
 C: OranHighTech.ddns.net 54001 77593121 oranhightech.com
 C: OranHighTech.ddns.net 54002 77593121 oranhightech.com
-
-
-
-
-
-
+C: 140e.ddns.net 40000 ntv140e test
+C: 37.187.255.91 1003 88 11
+C: iexufoh3.cserver.tv 1003 00 00
+C: de139.cserver.tv 1003 ddd ddd
+C: s7.supcam.me 31297 27707577 9911829061
+C: 37.187.255.91 1003 88 99
+C: 176.31.13.70 13000 dara02 77689
+C: electronics4shop.com 11500 deux22 3ws4f6
+C: tlk29c.cserver.tv 1003 ddd ddd
+C: free.iptvpremiums.com 25000 rnkj iptvpremiums.com
+C: de139.cserver.tv 1003 ddd ddd
+C: de139.cserver.tv 1003 ddd ddd
