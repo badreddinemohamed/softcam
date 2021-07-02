@@ -11,5 +11,5 @@ C: 176.31.13.70 13000 dara02 77689
 C: electronics4shop.com 11500 deux22 3ws4f6
 C: tlk29c.cserver.tv 1003 ddd ddd
 C: free.iptvpremiums.com 25000 rnkj iptvpremiums.com
-C: de139.cserver.tv 1003 ddd ddd
-C: de139.cserver.tv 1003 ddd ddd
+C: free.tvlivepro.com 40100 fktqn tvlivepro
+C: free.cccamprima.com 25008 d68moh cccamprima.com
